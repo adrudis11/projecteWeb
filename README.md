@@ -1,2 +1,2 @@
-# projecteWeb
+# ProjecteWeb
 Practica Projecte Web
